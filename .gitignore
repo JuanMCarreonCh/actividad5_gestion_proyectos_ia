@@ -38,6 +38,9 @@ env/
 mlruns/
 mlartifacts/
 .mlflow/
+*.db
+*.sqlite
+*.sqlite3
 
 # IDE / Editor folders
 .vscode/
@@ -48,3 +51,4 @@ mlartifacts/
 # OS generated files
 .DS_Store
 Thumbs.db
+
