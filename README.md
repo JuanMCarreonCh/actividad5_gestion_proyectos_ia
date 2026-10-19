@@ -39,6 +39,11 @@ Actividad5/
 │   ├── datos_prep.py                           # Módulo de funciones de limpieza y preprocesamiento
 │   └── train.py                                # Script de entrenamiento, tuning y registro en MLflow
 │── evidencias/                                 # Gráficas, tablas y capturas de MLflow generadas
+|   ├── Capturas MLFlow                         # Capturas de MLFlow UI
+|   |   └── MLFlow1.png
+|   |   ├─ MLFlowRandomForest.png
+|   |   ├─ MLFlowRegresionLogistica.png
+|   |   └─ MLFlowXGBOOST.png
 │   ├── cm_Regresion_Logistica.png
 │   ├── cm_Random_Forest.png
 │   ├── cm_XGBoost.png
