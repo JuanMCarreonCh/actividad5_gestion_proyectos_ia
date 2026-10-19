@@ -156,3 +156,4 @@ Evaluación sobre el conjunto de prueba independiente ($N = 1,409$ clientes, 20%
 Para consultar el reporte técnico completo, diccionario de variables, análisis detallado de deuda técnica y gobernanza MLOps, diríjase a:
 - [CHANGELOG.md](file:///c:/Users/juani/Desktop/MasterIA/Curso5.%20Gestion%20de%20Proyectos/Actividad5/CHANGELOG.md)
 - [Reporte_Tecnico_Actividad5.pdf](file:///c:/Users/juani/Desktop/MasterIA/Curso5.%20Gestion%20de%20Proyectos/Actividad5/Reporte_Tecnico_Actividad5.pdf)
+

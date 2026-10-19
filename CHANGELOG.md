@@ -3,7 +3,7 @@
 **Proyecto:** Pipeline de Clasificación, Optimización de Hiperparámetros y Experiment Tracking con MLflow  
 **Programa:** Máster en Inteligencia Artificial  
 **Curso:** Gestión de Proyectos en Inteligencia Artificial (Actividad 5)  
-**Autor:** Juan Ignacio  
+**Autor:** Juan Manuel Carreon Chavez  
 **Fecha:** Octubre 2026  
 **Versión del Proyecto:** `v1.0.0`
 
@@ -267,3 +267,4 @@ La construcción de un modelo con alto desempeño en *cross-validation* es solo 
   2. **Calibración probabilística superior:** Menor Log Loss (**0.4140**), garantizando que las probabilidades asignadas son fidedignas para alimentar algoritmos de priorización comercial.
   3. **Robustez y escalabilidad:** Soporta relaciones no lineales complejas entre antigüedad y tarifas mensuales sin riesgo de explosión de parámetros.
   4. **Empaquetado y reproducibilidad:** Registrado y firmado en MLflow, listo para servicio en tiempo real o por lotes.
+

@@ -428,3 +428,4 @@ def construir_pdf(pdf_path="Reporte_Tecnico_Actividad5.pdf"):
 
 if __name__ == '__main__':
     construir_pdf()
+
