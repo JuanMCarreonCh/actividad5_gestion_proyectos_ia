@@ -40,7 +40,7 @@ Actividad5/
 │   └── train.py                                # Script de entrenamiento, tuning y registro en MLflow
 │── evidencias/                                 # Gráficas, tablas y capturas de MLflow generadas
 |   ├── Capturas MLFlow                         # Capturas de MLFlow UI
-|   |   └── MLFlow1.png
+|   |   ├─ MLFlow1.png
 |   |   ├─ MLFlowRandomForest.png
 |   |   ├─ MLFlowRegresionLogistica.png
 |   |   └─ MLFlowXGBOOST.png
